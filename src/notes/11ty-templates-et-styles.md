@@ -73,9 +73,9 @@ Dans mes [[11ty|premiers tests]] j'avais écris mes templates en [[liquid]], qui
 ---
 permalink: bundle.css
 ---
-{% include "header.css" %}
-{% include "footer.css" %}
-{% include "./node_modules/my-ficticious-package-name/package.css" %}
+#{% include "header.css" %}
+#{% include "footer.css" %}
+#{% include "./node_modules/my-ficticious-package-name/package.css" %}
 
 ```
 
