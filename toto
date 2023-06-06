@@ -1,0 +1,6 @@
+const pluginWebc = require("@11ty/eleventy-plugin-webc");
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
+
+
+eleventyConfig.addPlugin(pluginWebc);
+eleventyConfig.addPlugin(EleventyRenderPlugin);

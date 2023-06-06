@@ -2,6 +2,7 @@
 
 # build
 _site/
+public/
 
 # Logs
 logs
