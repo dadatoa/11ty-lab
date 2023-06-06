@@ -1,4 +1,4 @@
 {
-  "layout": "BaseLayout.html",
+  "layout": "BaseLayout.njk",
   "tags": "notes"
 }
