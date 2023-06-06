@@ -2,11 +2,11 @@
 <html lang="fr" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>{{ title | default: "11ty Garden" }}</title>
+    <title>{{ title | default("11ty Garden") }}</title>
     <link rel="stylesheet" href="/bundle.css">
   </head>
   <body>
-    <h1>{{ title | default: "11ty Garden" }}</h1>
-    {{content}}
+    <h1>{{ title | default("11ty Garden") }}</h1>
+    {{content|safe}}
   </body>
 </html>
