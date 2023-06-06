@@ -7,7 +7,16 @@ module.exports = function(eleventyConfig) {
 
   return {
     dir: {
+<<<<<<< HEAD
       input: "src"
+=======
+      input: "src",
+<<<<<<< Updated upstream
+      output: "public"
+=======
+      layouts: "_layouts"
+>>>>>>> Stashed changes
+>>>>>>> 581fcaa (ajoute layout nunchucks)
     }
   }
 };
