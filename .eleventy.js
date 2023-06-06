@@ -7,16 +7,8 @@ module.exports = function(eleventyConfig) {
 
   return {
     dir: {
-<<<<<<< HEAD
       input: "src",
-<<<<<<< Updated upstream
-      output: "public"
-=======
       layouts: "_layouts"
->>>>>>> Stashed changes
-=======
-      input: "src"
->>>>>>> 9c0887b (templates nunjuck)
     }
   }
 };
