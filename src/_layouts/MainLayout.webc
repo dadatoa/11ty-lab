@@ -1,5 +1,0 @@
----
-layout: BaseLayout.webc
----
-
-<section @raw="content"></section>
