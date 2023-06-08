@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "layout": "BaseLayout.webc",
-=======
->>>>>>> Stashed changes
-  "tags": "notes"
+    "layout": "NoteLayout.webc",
+    "tag": "notes"
 }
