@@ -5,7 +5,7 @@ last_modified: 2023-06-06
 slug: index
 description: "Présentation de mon projet 11ty : un digital garden depuis un vault Obsidian, avec du WebC, Nunchucks et de l'amour."
 status: 🌱
-layout: BaseLayout.webc
+layout: MainLayout.webc
 share: true
 edit: 📝
 ---

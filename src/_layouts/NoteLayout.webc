@@ -1,5 +1,5 @@
 ---
-layout: BaseLayout.webc
+layout: MainLayout.webc
 ---
 <h1 @text="title">
 </h1>

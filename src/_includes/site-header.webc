@@ -1,7 +1,0 @@
-<h2>
-    SUPER H2
-</h2>
-
-<h3 @text="title"></h3>
-
-<nav>aze</nav>

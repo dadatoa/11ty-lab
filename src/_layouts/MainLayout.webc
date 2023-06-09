@@ -1,0 +1,8 @@
+---
+layout: njkBase.njk
+---
+<site-header :@title="title"></site-header>
+    
+<main @raw="content"></main>
+
+<site-footer></site-footer>

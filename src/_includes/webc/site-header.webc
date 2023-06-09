@@ -1,0 +1,6 @@
+<header>
+
+<h3 @text="title">default title</h3>
+
+<nav>aze</nav>
+</header>

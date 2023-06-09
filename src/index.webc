@@ -1,0 +1,5 @@
+---
+layout: MainLayout.webc
+---
+
+<p>T'es sur un projet expérimental construit avec 11ty, du webC et un peu de Nunjucks. La plupart de ce que tu trouveras ici parle de la construction de ce site.</p>
