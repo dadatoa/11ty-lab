@@ -1,6 +1,18 @@
+<style webc:keep webc:scoped>
+    p {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 3em;
+    }
+</style>
+
 <header>
 
 <h3 @text="title">default title</h3>
-
-<nav>aze</nav>
+<p>TOTO Margin Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel unde commodi qui dolorem a fuga aperiam necessitatibus, quidem, harum tenetur aspernatur magni explicabo iure modi sed accusamus deleniti maxime eaque.</p>
+<nav>
+    <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+    </ul>
+</nav>
 </header>
